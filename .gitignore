@@ -1,0 +1,4 @@
+selenium-java-4.43.0/
+target/surefire-reports/
+target/maven-status/maven-compiler-plugin/
+target/classpath.txt
